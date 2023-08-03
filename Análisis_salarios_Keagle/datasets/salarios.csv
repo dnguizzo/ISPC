@@ -1,0 +1,1001 @@
+año,experiencia,modalidad,posicion,salario,moneda,salario_en_dolares,localidad,esquema,localidad_empresa,tamaño_empresa
+2023,Senior,"Full Time","Cientifico de datos",80000,EUR,85847,ES,Remoto,ES,L
+2023,"Semi Senior",Contractor,"Ingeniero de Machine Learning",30000,USD,30000,US,Remoto,US,S
+2023,"Semi Senior",Contractor,"Ingeniero de Machine Learning",25500,USD,25500,US,Remoto,US,S
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Cientifico de datos",120000,USD,120000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Cientifico de datos",222200,USD,222200,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",219000,USD,219000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Cientifico de datos",141000,USD,141000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Cientifico de datos",147100,USD,147100,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",90700,USD,90700,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",100000,USD,100000,US,Remoto,US,M
+2023,Junior,"Full Time","Cientifico de datos",213660,USD,213660,US,Presencial,US,L
+2023,Junior,"Full Time","Cientifico de datos",130760,USD,130760,US,Presencial,US,L
+2023,Senior,"Full Time","Modelador de datos",147100,USD,147100,US,Presencial,US,M
+2023,Senior,"Full Time","Modelador de datos",90700,USD,90700,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",150000,USD,150000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",150000,USD,150000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",110000,USD,110000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",275000,USD,275000,DE,Presencial,DE,M
+2023,Senior,"Full Time","Ingeniero de datos",174000,USD,174000,DE,Presencial,DE,M
+2023,Senior,"Full Time","Analista de datos",230000,USD,230000,GB,Remoto,GB,M
+2023,Senior,"Full Time","Analista de datos",143200,USD,143200,GB,Remoto,GB,M
+2023,Senior,"Full Time","Ingeniero de BI",225000,USD,225000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de BI",156400,USD,156400,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Data Strategist",90000,USD,90000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Data Strategist",72000,USD,72000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Ingeniero de datos",253200,USD,253200,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",90700,USD,90700,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",342810,USD,342810,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",184590,USD,184590,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",162500,USD,162500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",130000,USD,130000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",105380,USD,105380,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",64500,USD,64500,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",100000,USD,100000,NG,Remoto,NG,L
+2023,Junior,"Full Time","Analista de datos",30000,USD,30000,NG,Remoto,NG,L
+2022,"Semi Senior","Full Time","Ingeniero de Machine Learning",1650000,INR,20984,IN,Hibrido,IN,L
+2023,Junior,"Full Time","Cientifico de datos",204620,USD,204620,US,Presencial,US,L
+2023,Junior,"Full Time","Cientifico de datos",110680,USD,110680,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de datos",270703,USD,270703,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",221484,USD,221484,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",212750,USD,212750,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",185000,USD,185000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",262000,USD,262000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",245000,USD,245000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",275300,USD,275300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",183500,USD,183500,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",218500,USD,218500,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",199098,USD,199098,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",203300,USD,203300,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",123600,USD,123600,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",189110,USD,189110,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",139000,USD,139000,US,Presencial,US,M
+2023,Executive,"Full Time","Cientifico de datos",258750,USD,258750,US,Presencial,US,M
+2023,Executive,"Full Time","Cientifico de datos",185000,USD,185000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",231500,USD,231500,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",166000,USD,166000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",172500,USD,172500,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",110500,USD,110500,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",238000,USD,238000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",176000,USD,176000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",237000,USD,237000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",201450,USD,201450,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",309400,USD,309400,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",159100,USD,159100,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de datos",115000,USD,115000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",81500,USD,81500,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",237000,USD,237000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",201450,USD,201450,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",280000,USD,280000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",210000,USD,210000,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",280100,USD,280100,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",168100,USD,168100,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",193500,USD,193500,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",139000,USD,139000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",510000,HKD,65062,HK,Presencial,HK,L
+2023,Senior,"Full Time","Ingeniero de Machine Learning",150000,USD,150000,PT,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",65000,EUR,69751,IN,Remoto,DE,S
+2022,Junior,"Full Time","Ingeniero de Machine Learning",300000,USD,300000,IN,Hibrido,IN,L
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",90000,EUR,96578,NL,Remoto,NL,L
+2023,Senior,"Full Time","Ingeniero de BI",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de BI",129300,USD,129300,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",225000,USD,225000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",185000,USD,185000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",45000,EUR,48289,ES,Presencial,ES,M
+2023,Senior,"Full Time","Cientifico de datos",36000,EUR,38631,ES,Presencial,ES,M
+2023,Senior,"Full Time","Cientifico de datos",105000,USD,105000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",70000,USD,70000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de Machine Learning",163196,USD,163196,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de Machine Learning",145885,USD,145885,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",217000,USD,217000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",185000,USD,185000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",202800,USD,202800,US,Presencial,US,L
+2023,Senior,"Full Time","Analista de datos",104300,USD,104300,US,Presencial,US,L
+2023,Senior,"Full Time","Analista de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",65000,USD,65000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",165000,USD,165000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",132300,USD,132300,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",179170,USD,179170,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",94300,USD,94300,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",152500,USD,152500,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",116450,USD,116450,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",247300,USD,247300,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",133800,USD,133800,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",203000,USD,203000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",133000,USD,133000,US,Presencial,US,M
+2023,Junior,"Full Time","Investigador de datos",220000,USD,220000,US,Hibrido,US,L
+2022,Junior,"Full Time","Ingeniero de Machine Learning",54000,CHF,56536,CH,Remoto,CH,S
+2023,Senior,"Full Time","Cientifico de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",289800,USD,289800,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",214000,USD,214000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",179820,USD,179820,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",143860,USD,143860,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",283200,USD,283200,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",188800,USD,188800,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",289800,USD,289800,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",214200,USD,214200,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129300,USD,129300,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",155000,USD,155000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",161800,USD,161800,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",141600,USD,141600,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",342300,USD,342300,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de Machine Learning",176100,USD,176100,US,Presencial,US,L
+2023,"Semi Senior","Full Time","Ingeniero de datos",100000,USD,100000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",70000,USD,70000,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",85000,USD,85000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",65000,USD,65000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",138784,USD,138784,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",83270,USD,83270,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",75000,USD,75000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",70000,USD,70000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",204500,USD,204500,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",138900,USD,138900,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",318300,USD,318300,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",212200,USD,212200,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",95000,USD,95000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",75000,USD,75000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",195000,USD,195000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",160000,USD,160000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",230000,USD,230000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",143200,USD,143200,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",100000,USD,100000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",70000,USD,70000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",105000,USD,105000,US,Hibrido,US,L
+2023,"Semi Senior","Full Time","Cientifico de datos",1700000,INR,20670,IN,Remoto,IN,L
+2023,"Semi Senior","Full Time","Analista de datos",38000,GBP,46178,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Analista de datos",35000,GBP,42533,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",115000,USD,115000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",168400,USD,168400,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",105200,USD,105200,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",309400,USD,309400,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",159100,USD,159100,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de Machine Learning",190000,USD,190000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",150000,USD,150000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",162500,USD,162500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",150000,USD,150000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",120000,USD,120000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",222200,USD,222200,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Senior,"Full Time","Analista de datos",45000,GBP,54685,CF,Remoto,CF,M
+2023,Senior,"Full Time","Analista de datos",35000,GBP,42533,CF,Remoto,CF,M
+2023,Senior,"Full Time","Ingeniero de datos",241000,USD,241000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",155000,USD,155000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",220000,USD,220000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",190000,USD,190000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",55000,GBP,66837,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Cientifico de datos",45000,GBP,54685,GB,Presencial,GB,M
+2020,Executive,"Full Time","Analista de datos",15000,USD,15000,NG,Presencial,CA,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",70000,GBP,85066,GB,Remoto,GB,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",47500,GBP,57723,GB,Remoto,GB,M
+2023,Junior,"Full Time","Analista de datos",85000,USD,85000,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",300000,USD,300000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",250000,USD,250000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",228000,USD,228000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",186000,USD,186000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",190000,USD,190000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",170000,USD,170000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",230000,USD,230000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",180000,USD,180000,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",115000,USD,115000,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",200000,USD,200000,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",115000,USD,115000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",50000,EUR,53654,FR,Hibrido,FR,S
+2023,Executive,"Full Time","Ingeniero de datos",220000,USD,220000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",205000,USD,205000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",180000,USD,180000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",200000,USD,200000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",150000,USD,150000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",215000,USD,215000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",247500,USD,247500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",172200,USD,172200,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",224000,USD,224000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Cientifico de datos",176000,USD,176000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Analista de datos",120000,USD,120000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",1400000,INR,17022,IN,Remoto,IN,L
+2023,Senior,"Full Time","Cientifico de datos",100000,AUD,68318,AU,Remoto,FI,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",100000,SGD,75020,FI,Presencial,FI,M
+2023,Senior,"Full Time","Analista de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",128000,USD,128000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",81500,USD,81500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",115000,USD,115000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",185000,USD,185000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,Executive,"Full Time","Lider de equipo",329500,USD,329500,US,Presencial,US,M
+2023,Executive,"Full Time","Lider de equipo",269600,USD,269600,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",80000,USD,80000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",250000,USD,250000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",162500,USD,162500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",200000,USD,200000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",100000,USD,100000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",115000,USD,115000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",203500,USD,203500,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",152000,USD,152000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",239000,USD,239000,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",122900,USD,122900,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",237000,USD,237000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",191765,USD,191765,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",134236,USD,134236,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",190000,USD,190000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",112000,USD,112000,US,Remoto,US,M
+2022,Senior,"Full Time","Cientifico de datos",84000,EUR,88256,ES,Remoto,GB,L
+2023,Junior,"Full Time","Ingeniero de datos",85000,USD,85000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",65000,USD,65000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",135000,USD,135000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",105500,USD,105500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",293000,USD,293000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",185000,USD,185000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",80000,USD,80000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",70000,USD,70000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",220000,USD,220000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",145000,USD,145000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",148500,USD,148500,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",45000,EUR,48289,ES,Presencial,ES,M
+2023,Senior,"Full Time","Cientifico de datos",36000,EUR,38631,ES,Presencial,ES,M
+2023,Senior,"Full Time","Ingeniero de datos",240500,USD,240500,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de datos",123700,USD,123700,US,Presencial,US,L
+2023,Senior,"Full Time","Analista de datos",152900,USD,152900,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",117100,USD,117100,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",173000,USD,173000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",113000,USD,113000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",260000,USD,260000,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Executive,"Full Time","Ingeniero de datos",175000,USD,175000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",110000,USD,110000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",260000,USD,260000,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Senior,"Full Time","Investigador de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Investigador de datos",110000,USD,110000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",205000,USD,205000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",184000,USD,184000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",149500,USD,149500,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",127075,USD,127075,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",195000,USD,195000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",160000,USD,160000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",219535,USD,219535,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",146115,USD,146115,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",135000,USD,135000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",145000,USD,145000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",199000,USD,199000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",162000,USD,162000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",222200,USD,222200,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Executive,"Full Time","Analista de datos",221000,USD,221000,US,Remoto,US,M
+2023,Executive,"Full Time","Analista de datos",153000,USD,153000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",187000,USD,187000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",128000,USD,128000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",210000,USD,210000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",136000,USD,136000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",100000,USD,100000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",179000,USD,179000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",109000,USD,109000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",245000,USD,245000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",180000,USD,180000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",142000,USD,142000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Senior,"Full Time","Lider de equipo",198800,USD,198800,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",105200,USD,105200,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",125000,USD,125000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",112000,USD,112000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",210000,USD,210000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",155000,USD,155000,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",115000,USD,115000,US,Remoto,US,M
+2023,Senior,"Full Time","Lider de equipo",86000,USD,86000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",165000,USD,165000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",139000,USD,139000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106000,USD,106000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",55000,CAD,40663,CA,Presencial,CA,L
+2022,Senior,"Full Time","Ingeniero de Machine Learning",275000,USD,275000,CA,Presencial,CA,S
+2023,Senior,Freelance,"Ingeniero de Machine Learning",50000,USD,50000,UA,Hibrido,UA,S
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",280700,USD,280700,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",150450,USD,150450,US,Remoto,US,M
+2023,Junior,"Full Time","Cientifico de datos",70000,CAD,51753,CA,Remoto,CA,L
+2023,Senior,"Full Time","Arquitecto de datos",250500,USD,250500,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",159500,USD,159500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",115000,USD,115000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",120000,USD,120000,US,Presencial,US,M
+2023,Junior,"Full Time","Cientifico de datos",130001,USD,130001,US,Remoto,US,M
+2023,Junior,"Full Time","Cientifico de datos",71907,USD,71907,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",93918,USD,93918,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",51962,USD,51962,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",175000,USD,175000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Analista de datos",135000,USD,135000,CA,Remoto,CA,M
+2023,Junior,"Full Time","Ingeniero de datos",85000,USD,85000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",65000,USD,65000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",257000,USD,257000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",147000,USD,147000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",222000,USD,222000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",203000,USD,203000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",133200,USD,133200,US,Remoto,US,M
+2023,Junior,"Full Time","Cientifico de datos",213660,USD,213660,US,Presencial,US,L
+2023,Junior,"Full Time","Cientifico de datos",130760,USD,130760,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de datos",221000,USD,221000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",147000,USD,147000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",80000,USD,80000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",129300,USD,129300,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",238000,USD,238000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",156000,USD,156000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",304000,USD,304000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",199000,USD,199000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",45000,EUR,48289,ES,Remoto,ES,M
+2023,Senior,"Full Time","Ingeniero de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",140000,USD,140000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",110000,USD,110000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",90000,USD,90000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",75000,USD,75000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",161200,GBP,195895,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Investigador de datos",84570,GBP,102772,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",240000,USD,240000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",183600,USD,183600,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Especialista en datos",130000,USD,130000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Especialista en datos",80000,USD,80000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",250000,USD,250000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Lider de equipo",120000,USD,120000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",289076,USD,289076,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",202353,USD,202353,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",155000,USD,155000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106000,USD,106000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",157750,USD,157750,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",104650,USD,104650,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",180000,USD,180000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",140000,USD,140000,US,Remoto,US,M
+2023,Executive,"Full Time","Cientifico de datos",200000,USD,200000,US,Presencial,US,M
+2023,Executive,"Full Time","Cientifico de datos",145000,USD,145000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",68000,USD,68000,US,Presencial,US,L
+2023,Junior,"Full Time","Ingeniero de BI",60000,USD,60000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",45000,EUR,48289,ES,Presencial,ES,M
+2023,Senior,"Full Time","Cientifico de datos",36000,EUR,38631,ES,Presencial,ES,M
+2023,Junior,"Full Time","Ingeniero de datos",85000,USD,85000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",65000,USD,65000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",125000,USD,125000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",90000,USD,90000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",105000,USD,105000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",90000,USD,90000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",179820,USD,179820,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",143860,USD,143860,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",135000,USD,135000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",105500,USD,105500,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",155000,USD,155000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",125000,USD,125000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",241000,USD,241000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",181000,USD,181000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",154000,USD,154000,US,Presencial,US,M
+2023,Executive,"Full Time","Arquitecto de datos",180000,USD,180000,US,Presencial,US,M
+2023,Executive,"Full Time","Arquitecto de datos",155000,USD,155000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",191765,USD,191765,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",134236,USD,134236,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",145000,USD,145000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",237000,USD,237000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",145000,USD,145000,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",155000,USD,155000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",125000,USD,125000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",80000,USD,80000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",70000,USD,70000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",146000,USD,146000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",75000,USD,75000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",64200,USD,64200,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",56100,USD,56100,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",208450,USD,208450,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",170550,USD,170550,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",125000,USD,125000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",100000,USD,100000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",135000,USD,135000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",200000,USD,200000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",170000,USD,170000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",171250,USD,171250,IE,Presencial,IE,M
+2023,Senior,"Full Time","Cientifico de datos",113750,USD,113750,IE,Presencial,IE,M
+2023,Senior,"Full Time","Cientifico de datos",222200,USD,222200,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",260000,USD,260000,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,Senior,"Full Time","Analista de datos",153600,USD,153600,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",100500,USD,100500,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",205000,USD,205000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",184000,USD,184000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",115000,USD,115000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",95000,USD,95000,CA,Remoto,CA,M
+2023,"Semi Senior","Full Time","Analista de datos",182500,USD,182500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",121500,USD,121500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",203100,USD,203100,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",114500,USD,114500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",60000,GBP,72914,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Analista de datos",45000,GBP,54685,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",92700,USD,92700,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",61800,USD,61800,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",258000,USD,258000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Cientifico de datos",190000,USD,190000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Cientifico de datos",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",135000,USD,135000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Arquitecto de datos",167500,USD,167500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Arquitecto de datos",106500,USD,106500,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",195000,USD,195000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",160000,USD,160000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",146000,USD,146000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",75000,USD,75000,US,Presencial,US,M
+2022,Junior,"Full Time","Ingeniero de datos",57000,EUR,59888,NL,Remoto,NL,L
+2023,Executive,"Full Time","Ingeniero de datos",286000,USD,286000,US,Remoto,US,M
+2023,Executive,"Full Time","Ingeniero de datos",207000,USD,207000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",100000,USD,100000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",80000,USD,80000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",223250,USD,223250,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",178600,USD,178600,US,Presencial,US,M
+2023,Executive,"Full Time","Lider de equipo",353200,USD,353200,US,Presencial,US,M
+2023,Executive,"Full Time","Lider de equipo",249300,USD,249300,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de Machine Learning",230000,USD,230000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de Machine Learning",220000,USD,220000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",297300,USD,297300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",198200,USD,198200,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",210000,USD,210000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",151800,USD,151800,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",200000,USD,200000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",170000,USD,170000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",317070,USD,317070,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",170730,USD,170730,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",128000,USD,128000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",81500,USD,81500,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",20000,EUR,21461,ES,Presencial,ES,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",108000,USD,108000,UA,Presencial,UA,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",60000,USD,60000,UA,Presencial,UA,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",134000,USD,134000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",124000,USD,124000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",171250,USD,171250,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",113750,USD,113750,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",165000,USD,165000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",132300,USD,132300,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",225000,USD,225000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",230000,USD,230000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",124500,USD,124500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",247500,USD,247500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",172200,USD,172200,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",148700,USD,148700,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",125600,USD,125600,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",115000,USD,115000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",150000,USD,150000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",185000,USD,185000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",120250,USD,120250,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",275300,USD,275300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",183000,USD,183000,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",170000,USD,170000,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",125000,USD,125000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Arquitecto de datos",167500,USD,167500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Arquitecto de datos",106500,USD,106500,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",250000,USD,250000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",200000,USD,200000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",135000,USD,135000,US,Hibrido,US,L
+2023,Senior,"Full Time","Cientifico de Machine Learning",1500000,ILS,423834,IL,Presencial,IL,L
+2023,Senior,"Full Time","Ingeniero de Machine Learning",216000,USD,216000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",184000,USD,184000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",180000,USD,180000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",165000,USD,165000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",129300,USD,129300,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",143865,USD,143865,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",115092,USD,115092,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",130000,USD,130000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",90000,USD,90000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",173000,USD,173000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",132000,USD,132000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",208049,USD,208049,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",128500,USD,128500,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",179820,USD,179820,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",143860,USD,143860,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",167500,USD,167500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",106500,USD,106500,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",275300,USD,275300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",183500,USD,183500,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",149600,USD,149600,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",102000,USD,102000,US,Presencial,US,M
+2023,Executive,"Full Time","Cientifico de datos",145000,USD,145000,US,Presencial,US,M
+2023,Executive,"Full Time","Cientifico de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",190000,USD,190000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",95000,USD,95000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",153600,USD,153600,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106800,USD,106800,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",90000,EUR,96578,IE,Presencial,IE,M
+2023,"Semi Senior","Full Time","Cientifico de datos",75000,EUR,80481,IE,Presencial,IE,M
+2023,"Semi Senior","Full Time","Analista de datos",128000,USD,128000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",85000,USD,85000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",151000,USD,151000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",275300,USD,275300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",183500,USD,183500,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de Machine Learning",220000,USD,220000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de Machine Learning",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",135000,USD,135000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",105500,USD,105500,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",100000,USD,100000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",80000,USD,80000,US,Remoto,US,M
+2023,Junior,"Full Time","Cientifico de Machine Learning",40000,EUR,42923,DE,Hibrido,DE,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Ingeniero de datos",145000,USD,145000,CA,Remoto,CA,M
+2023,"Semi Senior","Full Time","Analista de datos",154000,USD,154000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",143000,USD,143000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",65000,GBP,78990,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Cientifico de datos",42000,GBP,51039,GB,Presencial,GB,M
+2023,Junior,"Full Time","Cientifico de datos",190000,USD,190000,US,Presencial,US,M
+2023,Junior,"Full Time","Cientifico de datos",120000,USD,120000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",70000,GBP,85066,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Cientifico de datos",42000,GBP,51039,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Cientifico de datos",90000,GBP,109371,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Cientifico de datos",60000,GBP,72914,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",111000,USD,111000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",265000,USD,265000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",235000,USD,235000,US,Presencial,US,M
+2023,Junior,"Full Time","Cientifico de datos",112000,CHF,121093,CH,Hibrido,CH,L
+2022,"Semi Senior","Full Time","Cientifico de datos",70000,EUR,73546,DE,Remoto,DE,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",130000,USD,130000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",75000,USD,75000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",60400,USD,60400,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",85000,USD,85000,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",92700,USD,92700,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",61800,USD,61800,US,Remoto,US,M
+2022,Senior,"Full Time","Lider de equipo",164000,EUR,172309,IE,Remoto,IE,L
+2023,"Semi Senior","Full Time","Cientifico de datos",56000,EUR,60093,AT,Remoto,DE,M
+2023,"Semi Senior","Full Time","Analista de datos",83500,USD,83500,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",52500,USD,52500,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",201036,USD,201036,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",134024,USD,134024,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",165000,USD,165000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",140000,USD,140000,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",62000,USD,62000,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",58000,USD,58000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",172000,USD,172000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",115000,USD,115000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",125000,USD,125000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",90000,USD,90000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",163800,USD,163800,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",126000,USD,126000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",237000,USD,237000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",145000,USD,145000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",90000,USD,90000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",90000,USD,90000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",139500,USD,139500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",109400,USD,109400,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",258000,USD,258000,CA,Presencial,CA,M
+2023,Senior,"Full Time","Cientifico de datos",190000,USD,190000,CA,Presencial,CA,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",205600,USD,205600,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de datos",105700,USD,105700,US,Presencial,US,L
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",239748,USD,239748,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",159832,USD,159832,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",186300,USD,186300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",102500,USD,102500,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",165000,USD,165000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",132300,USD,132300,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",190000,USD,190000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",126000,USD,126000,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",149040,USD,149040,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",113900,USD,113900,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",153600,USD,153600,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",106800,USD,106800,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",172600,USD,172600,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",107900,USD,107900,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",180180,USD,180180,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106020,USD,106020,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",376080,USD,376080,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",213120,USD,213120,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",153600,USD,153600,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",100500,USD,100500,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",206500,USD,206500,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",121600,USD,121600,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",260000,USD,260000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",225000,USD,225000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",194500,USD,194500,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",115500,USD,115500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",170000,USD,170000,US,Remoto,US,L
+2023,Senior,"Full Time","Cientifico de Machine Learning",90000,USD,90000,US,Remoto,US,L
+2023,Junior,"Full Time","Analista de datos",95000,USD,95000,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",70000,USD,70000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",275000,USD,275000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",115934,USD,115934,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",81666,USD,81666,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",150000,USD,150000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",120000,USD,120000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",175000,USD,175000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",206000,USD,206000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",138000,USD,138000,GB,Remoto,GB,M
+2023,Senior,"Full Time","Arquitecto de datos",92000,USD,92000,GB,Remoto,GB,M
+2023,Senior,"Full Time","Lider de equipo",65000,USD,65000,CO,Presencial,CO,M
+2023,Senior,"Full Time","Lider de equipo",48000,USD,48000,CO,Presencial,CO,M
+2023,Senior,"Full Time","Analista de datos",110000,USD,110000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",87000,USD,87000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",160000,USD,160000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",112000,USD,112000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",162500,USD,162500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",130000,USD,130000,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",299500,USD,299500,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",245100,USD,245100,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",145000,USD,145000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",147100,USD,147100,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",90700,USD,90700,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",115100,USD,115100,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",73900,USD,73900,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",168400,USD,168400,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",105200,USD,105200,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",210000,USD,210000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",160000,USD,160000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",145000,USD,145000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",222200,USD,222200,US,Presencial,US,L
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,L
+2023,"Semi Senior","Full Time","Analista de datos",100000,USD,100000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",85000,USD,85000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",70000,GBP,85066,GB,Remoto,GB,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",47500,GBP,57723,GB,Remoto,GB,M
+2023,Executive,"Full Time","Cientifico de datos",200000,USD,200000,US,Presencial,US,M
+2023,Executive,"Full Time","Cientifico de datos",145000,USD,145000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",95000,USD,95000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",185000,USD,185000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",120250,USD,120250,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",130000,USD,130000,US,Remoto,US,L
+2023,Senior,"Full Time","Cientifico de datos",205000,USD,205000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",297300,USD,297300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",198200,USD,198200,US,Remoto,US,M
+2023,Senior,"Full Time","Investigador de datos",141288,USD,141288,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",94192,USD,94192,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",184000,USD,184000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",143000,USD,143000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",70000,USD,70000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",55000,USD,55000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",275300,USD,275300,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",183500,USD,183500,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",65000,USD,65000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",160000,USD,160000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",147000,USD,147000,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",149040,USD,149040,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",113900,USD,113900,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",100000,SGD,75020,SG,Remoto,SG,L
+2023,Senior,"Full Time","Analista de datos",180180,USD,180180,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106020,USD,106020,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",1400000,INR,17022,IN,Remoto,IN,L
+2023,Junior,"Full Time","Ingeniero de Machine Learning",70000,USD,70000,IN,Presencial,AU,L
+2023,Junior,"Full Time","Ingeniero de Machine Learning",80000,USD,80000,SE,Hibrido,SE,M
+2023,"Semi Senior","Full Time","Lider de equipo",1500000,INR,18238,IN,Hibrido,IN,L
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",250000,USD,250000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",139500,USD,139500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",109400,USD,109400,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",105000,USD,105000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",70000,USD,70000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",210914,USD,210914,US,Remoto,US,M
+2023,Executive,"Full Time","Ingeniero de datos",116704,USD,116704,US,Remoto,US,M
+2023,Junior,"Full Time","Investigador de datos",150000,USD,150000,US,Presencial,US,M
+2023,Junior,"Full Time","Investigador de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",146000,USD,146000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",75000,USD,75000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",60000,USD,60000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",185700,USD,185700,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",165000,USD,165000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",169000,USD,169000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",110600,USD,110600,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",193000,USD,193000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",136850,USD,136850,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",139500,USD,139500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",109400,USD,109400,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",276000,USD,276000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",178500,USD,178500,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",55000,EUR,59020,ES,Presencial,ES,M
+2023,"Semi Senior","Full Time","Cientifico de datos",45000,EUR,48289,ES,Presencial,ES,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",70000,EUR,75116,SI,Remoto,SI,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",45000,EUR,48289,SI,Remoto,SI,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",161000,GBP,195652,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",83300,GBP,101228,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",112700,GBP,136956,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",83300,GBP,101228,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2022,Senior,"Full Time","Ingeniero de BI",130000,USD,130000,US,Remoto,US,L
+2021,"Semi Senior","Full Time","Lider de equipo",150000,USD,150000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",163800,USD,163800,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",126000,USD,126000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",260000,USD,260000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",110000,USD,110000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Analista de datos",170000,USD,170000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",247500,USD,247500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",172200,USD,172200,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",239748,USD,239748,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",159832,USD,159832,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",163800,USD,163800,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",126000,USD,126000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",128750,USD,128750,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",106250,USD,106250,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",299500,USD,299500,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",245100,USD,245100,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",155000,USD,155000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",140000,USD,140000,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",167500,USD,167500,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",106500,USD,106500,US,Presencial,US,M
+2023,Senior,"Full Time","Arquitecto de datos",188500,USD,188500,US,Remoto,US,M
+2023,Senior,"Full Time","Arquitecto de datos",117000,USD,117000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",250000,USD,250000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",138000,USD,138000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Analista de datos",130000,USD,130000,CA,Remoto,CA,M
+2023,"Semi Senior","Full Time","Analista de datos",100000,USD,100000,CA,Remoto,CA,M
+2023,Senior,"Full Time","Investigador de datos",115000,EUR,123405,DE,Presencial,DE,L
+2023,Senior,"Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de BI",160000,USD,160000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de BI",135000,USD,135000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",104500,USD,104500,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",70000,USD,70000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",90000,USD,90000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",70000,USD,70000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",153600,USD,153600,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",106800,USD,106800,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",125000,USD,125000,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de datos",90000,USD,90000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",185000,USD,185000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",125000,USD,125000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",127000,USD,127000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",94000,USD,94000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",210550,USD,210550,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",153300,USD,153300,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",200000,USD,200000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",150000,USD,150000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",161500,USD,161500,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",119500,USD,119500,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",145000,USD,145000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",148750,USD,148750,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",105000,USD,105000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",85000,USD,85000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",215000,USD,215000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",146300,USD,146300,US,Presencial,US,M
+2023,Junior,"Full Time","Ingeniero de Machine Learning",200000,EUR,214618,DE,Remoto,DE,L
+2023,"Semi Senior","Full Time","Ingeniero de datos",72000,USD,72000,MX,Remoto,MX,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",60000,USD,60000,MX,Remoto,MX,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",153400,USD,153400,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",122700,USD,122700,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",260000,USD,260000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",186300,USD,186300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",123900,USD,123900,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",340000,USD,340000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",150000,USD,150000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",153400,USD,153400,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",122700,USD,122700,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",250000,USD,250000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",175000,USD,175000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",60000,EUR,64385,FR,Hibrido,FR,M
+2023,Senior,"Full Time","Analista de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",121700,USD,121700,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",153600,USD,153600,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106800,USD,106800,US,Presencial,US,M
+2023,Senior,Freelance,"Ingeniero de datos",50000,USD,50000,NG,Hibrido,AU,M
+2023,Junior,"Full Time","Analista de datos",100000,USD,100000,UZ,Remoto,US,L
+2023,Senior,"Full Time","Ingeniero de Machine Learning",247500,USD,247500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",172200,USD,172200,US,Presencial,US,M
+2023,Executive,"Full Time","Ingeniero de datos",310000,USD,310000,US,Remoto,US,M
+2023,Executive,"Full Time","Ingeniero de datos",239000,USD,239000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",125000,USD,125000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",110000,USD,110000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",150000,USD,150000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",100000,USD,100000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",149076,USD,149076,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",82365,USD,82365,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",146000,USD,146000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",75000,USD,75000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",139500,USD,139500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",109400,USD,109400,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",139500,USD,139500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",109400,USD,109400,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",149600,USD,149600,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",102000,USD,102000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",80000,GBP,97218,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Analista de datos",40000,GBP,48609,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",95000,USD,95000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",85500,USD,85500,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",121700,USD,121700,US,Presencial,US,M
+2023,Junior,"Full Time","Investigador de datos",150000,USD,150000,US,Presencial,US,M
+2023,Junior,"Full Time","Investigador de datos",100000,USD,100000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",145000,USD,145000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",125000,USD,125000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",150000,USD,150000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",97750,USD,97750,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",201000,USD,201000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",122000,USD,122000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",252000,USD,252000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129000,USD,129000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",120000,USD,120000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",116990,USD,116990,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",82920,USD,82920,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",129300,USD,129300,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de Machine Learning",200000,USD,200000,US,Presencial,US,S
+2023,"Semi Senior","Full Time","Cientifico de Machine Learning",125000,USD,125000,US,Presencial,US,S
+2023,Senior,"Full Time","Cientifico de datos",201000,USD,201000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",122000,USD,122000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",204500,USD,204500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",142200,USD,142200,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",155000,USD,155000,US,Presencial,US,M
+2023,Senior,"Full Time","Lider de equipo",140000,USD,140000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",205920,USD,205920,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",171600,USD,171600,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",121500,USD,121500,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",78000,USD,78000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",154000,USD,154000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",116000,USD,116000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",190000,USD,190000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",136000,USD,136000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Analista de datos",65000,GBP,78990,GB,Remoto,GB,M
+2023,"Semi Senior","Full Time","Analista de datos",36050,GBP,43809,GB,Remoto,GB,M
+2023,Senior,"Full Time","Analista de datos",180000,USD,180000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",110000,USD,110000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",275300,USD,275300,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",183000,USD,183000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",170000,USD,170000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",154000,USD,154000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",116000,USD,116000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",130000,USD,130000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",200000,USD,200000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",160000,USD,160000,US,Remoto,US,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",105000,GBP,127599,GB,Presencial,GB,M
+2023,"Semi Senior","Full Time","Ingeniero de datos",85000,GBP,103294,GB,Presencial,GB,M
+2023,Senior,"Full Time","Ingeniero de datos",153600,USD,153600,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",106800,USD,106800,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",85000,USD,85000,US,Remoto,US,M
+2023,Junior,"Full Time","Analista de datos",75000,USD,75000,US,Remoto,US,M
+2023,Senior,"Full Time","Cientifico de datos",225000,USD,225000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",156400,USD,156400,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",120000,USD,120000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",163800,USD,163800,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",126000,USD,126000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",145000,USD,145000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",90000,USD,90000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",204500,USD,204500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",142200,USD,142200,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",95000,USD,95000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",85500,USD,85500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",167500,USD,167500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",106500,USD,106500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",163800,USD,163800,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",126000,USD,126000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",155000,USD,155000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Lider de equipo",140000,USD,140000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",250000,USD,250000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",260000,USD,260000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",186000,USD,186000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",160000,USD,160000,US,Remoto,US,M
+2023,Senior,"Full Time","Ingeniero de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Investigador de datos",200000,USD,200000,US,Presencial,US,M
+2023,Senior,"Full Time","Investigador de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",45000,EUR,48289,ES,Presencial,ES,M
+2023,Senior,"Full Time","Cientifico de datos",36000,EUR,38631,ES,Presencial,ES,M
+2023,Senior,"Full Time","Cientifico de datos",150000,USD,150000,US,Presencial,US,M
+2023,Senior,"Full Time","Cientifico de datos",120000,USD,120000,US,Presencial,US,M
+2023,Junior,"Full Time","Analista de datos",30000,USD,30000,IN,Hibrido,IN,M
+2023,"Semi Senior","Full Time","Investigador de datos",185000,USD,185000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Investigador de datos",125000,USD,125000,US,Presencial,US,M
+2022,Junior,"Part Time","Analista de datos",34320,USD,34320,US,Remoto,US,S
+2022,"Semi Senior","Full Time","Analista de datos",48000,BRL,9289,BR,Remoto,BR,M
+2023,Senior,"Full Time","Lider de equipo",70000,EUR,75116,PT,Remoto,PT,L
+2022,Executive,"Full Time","Lider de equipo",106000,USD,106000,UZ,Presencial,RU,L
+2023,Senior,"Full Time","Analista de datos",175000,USD,175000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",130000,USD,130000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",122000,USD,122000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",93800,USD,93800,US,Remoto,US,M
+2023,Senior,"Full Time","Lider de equipo",150000,USD,150000,MX,Remoto,MX,M
+2023,Senior,"Full Time","Lider de equipo",90000,USD,90000,MX,Remoto,MX,M
+2023,Senior,"Full Time","Analista de datos",165000,USD,165000,US,Remoto,US,M
+2023,Senior,"Full Time","Analista de datos",112000,USD,112000,US,Remoto,US,M
+2023,Junior,"Full Time","Ingeniero de datos",220000,USD,220000,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de BI",67000,EUR,71897,DE,Remoto,DE,M
+2023,Junior,"Full Time","Ingeniero de Machine Learning",60000,EUR,64385,DE,Presencial,DE,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",204500,USD,204500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",142200,USD,142200,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",1300000,INR,15806,IN,Remoto,IN,S
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",200000,USD,200000,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Ingeniero de Machine Learning",175000,USD,175000,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de datos",129300,USD,129300,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",185900,USD,185900,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",121700,USD,121700,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",204500,USD,204500,US,Presencial,US,M
+2023,Senior,"Full Time","Ingeniero de Machine Learning",142200,USD,142200,US,Presencial,US,M
+2023,"Semi Senior","Full Time","Cientifico de datos",40000,USD,40000,FR,Hibrido,FR,L
+2023,Senior,"Full Time","Cientifico de datos",1000000,THB,29453,TH,Hibrido,TH,M
+2023,Senior,"Full Time","Analista de datos",180180,USD,180180,US,Presencial,US,M
+2023,Senior,"Full Time","Analista de datos",106020,USD,106020,US,Presencial,US,M
